@@ -1,2 +1,2 @@
 # devesops
-dev and cloud repo
+dev and cloud repository
