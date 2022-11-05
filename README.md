@@ -1,2 +1,2 @@
-# devesops
+# dev
 dev and cloud repository
